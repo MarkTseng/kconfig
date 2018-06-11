@@ -404,7 +404,6 @@ exec_prefix = @exec_prefix@
 flex = @flex@
 git = @git@
 gzip = @gzip@
-help2man = @help2man@
 host = @host@
 host_alias = @host_alias@
 host_cpu = @host_cpu@

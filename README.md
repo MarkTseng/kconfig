@@ -1,2 +1,2 @@
 # kconfig
-kconfig app for 
+kconfig app from crosstool-ng

@@ -392,7 +392,7 @@ CLEANFILES = zconf.lex.c zconf.c
 BUILT_SOURCES = zconf.c zconf.lex.c
 AM_LFLAGS = -L -Pzconf
 AM_YFLAGS = -l -b zconf -p zconf
-AM_CPPFLAGS = -include config.h -DCONFIG_=\"CT_\"
+AM_CPPFLAGS = -include config.h 
 AM_LIBTOOLFLAGS = --tag CC
 conf_SOURCES = conf.c zconf.c
 nconf_SOURCES = nconf.c nconf.gui.c zconf.c
